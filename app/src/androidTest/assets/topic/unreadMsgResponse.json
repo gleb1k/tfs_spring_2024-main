@@ -1,0 +1,41 @@
+{
+  "result": "success",
+  "msg": "",
+  "queue_id": "2a253724-4bd3-408d-ac1b-83dd7db8d015",
+  "zulip_version": "9.0-dev-1659-gbed45f9948",
+  "zulip_feature_level": 246,
+  "zulip_merge_base": "9.0-dev-1639-ge3f8c62e34",
+  "max_message_id": 433392186,
+  "unread_msgs": {
+    "pms": [],
+    "streams": [
+      {
+        "stream_id": 433635,
+        "topic": "test",
+        "unread_message_ids": [
+          433379357,
+          433387031
+        ]
+      },
+      {
+        "stream_id": 433634,
+        "topic": "События канала",
+        "unread_message_ids": [
+          433377402
+        ]
+      },
+      {
+        "stream_id": 432915,
+        "topic": "swimming turtles",
+        "unread_message_ids": [
+          433374947
+        ]
+      }
+    ],
+    "huddles": [],
+    "mentions": [],
+    "count": 13,
+    "old_unreads_missing": false
+  },
+  "last_event_id": -1
+}

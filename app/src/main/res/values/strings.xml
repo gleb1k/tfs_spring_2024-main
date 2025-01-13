@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">TinkoffFintech</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="search">Search</string>
+
+    <!--Profile-->
+    <string name="profile_title">Profile</string>
+
+    <!--People-->
+    <string name="people_title">People</string>
+
+    <!--Channels-->
+    <string name="channels_title">Channels</string>
+    <string name="tab_subscribed">Subscribed</string>
+    <string name="tab_all_streams">All streams</string>
+    <string name="rotation_animation_label">Rotation</string>
+    <string name="content_description_hide">Hide</string>
+    <string name="create_channel">Create</string>
+    <string name="creating_channel_title">Creating a channel</string>
+    <string name="creating_channel_hint">Enter channel name…</string>
+    <string name="navigate_to_stream_topics">Navigate to stream topics</string>
+    <string name="topic_unread_messages">%1$d mes</string>
+
+    <!--Chat-->
+    <string name="chat_textfield_placeholder">Message…</string>
+    <string name="topic_textfield_placeholder">Topic…</string>
+    <string name="topic_prefix">Topic: #</string>
+    <string name="chat_textfield_send">Send</string>
+    <string name="chat_textfield_add_photo">Add photo</string>
+    <string-array name="chat_date_month_array">
+        <item>Jan</item>
+        <item>Feb</item>
+        <item>Mar</item>
+        <item>Apr</item>
+        <item>May</item>
+        <item>Jun</item>
+        <item>Jul</item>
+        <item>Aug</item>
+        <item>Sep</item>
+        <item>Oct</item>
+        <item>Nov</item>
+        <item>Dec</item>
+    </string-array>
+    <string name="chat_date">%1$d %2$s</string>
+    <string name="chat_bottom_sheet_delete_message">Delete</string>
+    <string name="chat_bottom_sheet_copy_message">Copy</string>
+    <string name="chat_bottom_sheet_edit_message">Edit</string>
+    <string name="chat_bottom_sheet_add_reaction">Add reaction</string>
+    <string name="chat_bottom_sheet_change_topic_message">Change topic</string>
+    <string name="chat_dialog_edit_message_content_title">Edit message</string>
+    <string name="chat_dialog_change_message_topic_title">Change topic</string>
+    <string name="chat_dialog_edit">Edit</string>
+    <string name="chat_dialog_change">Change</string>
+    <string name="chat_dialog_edit_message_content_placeholder">Message…</string>
+    <string name="chat_dialog_edit_message_topic_placeholder">Topic…</string>
+    <string name="chat_clear_text">Clear</string>
+
+    <!--User-->
+    <string name="user_status_offline">offline</string>
+    <string name="user_status_online">online</string>
+    <string name="user_status_idle">idle</string>
+
+
+</resources>

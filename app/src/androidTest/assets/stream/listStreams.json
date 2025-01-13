@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "msg": "",
+  "streams": [
+    {
+      "can_remove_subscribers_group": 505981,
+      "creator_id": 709343,
+      "date_created": 1713199266,
+      "description": "",
+      "first_message_id": 433338497,
+      "history_public_to_subscribers": true,
+      "invite_only": false,
+      "is_web_public": false,
+      "message_retention_days": null,
+      "name": "Backend Developers",
+      "rendered_description": "",
+      "stream_id": 433635,
+      "stream_post_policy": 1,
+      "is_announcement_only": false,
+      "stream_weekly_traffic": 22
+    },
+    {
+      "can_remove_subscribers_group": 505981,
+      "creator_id": 709174,
+      "date_created": 1713199255,
+      "description": "Yakogdan Stream description",
+      "first_message_id": 433338448,
+      "history_public_to_subscribers": true,
+      "invite_only": false,
+      "is_web_public": false,
+      "message_retention_days": null,
+      "name": "Yakogdan Stream",
+      "rendered_description": "<p>Yakogdan Stream description</p>",
+      "stream_id": 433634,
+      "stream_post_policy": 1,
+      "is_announcement_only": false,
+      "stream_weekly_traffic": 15
+    },
+    {
+      "can_remove_subscribers_group": 505981,
+      "creator_id": 709775,
+      "date_created": 1713199249,
+      "description": "channel for tests",
+      "first_message_id": 433338429,
+      "history_public_to_subscribers": true,
+      "invite_only": false,
+      "is_web_public": false,
+      "message_retention_days": null,
+      "name": "general",
+      "rendered_description": "<p>channel for tests</p>",
+      "stream_id": 433633,
+      "stream_post_policy": 1,
+      "is_announcement_only": false,
+      "stream_weekly_traffic": 79
+    }
+  ]
+}

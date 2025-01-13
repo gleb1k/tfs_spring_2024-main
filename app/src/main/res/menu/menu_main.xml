@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_channels"
+        android:icon="@drawable/ic_bottom_channel"
+        android:title="@string/channels_title" />
+    <item
+        android:id="@+id/action_people"
+        android:icon="@drawable/ic_bottom_people"
+
+        android:title="@string/people_title" />
+    <item
+        android:id="@+id/action_profile"
+        android:icon="@drawable/ic_bottom_profile"
+        android:title="@string/profile_title" />
+</menu>

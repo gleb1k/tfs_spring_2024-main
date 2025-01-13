@@ -24,8 +24,3 @@ build/**
 classes/**
 target/**
 Footer
-# Project exclude paths
-/app/
-/core/
-/gradle/
-/task/

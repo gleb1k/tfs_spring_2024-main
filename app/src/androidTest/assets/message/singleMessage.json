@@ -1,0 +1,45 @@
+{
+  "anchor": 21,
+  "found_anchor": true,
+  "found_newest": true,
+  "messages": [
+    {
+      "avatar_url": "https://secure.gravatar.com/avatar/6d8cad0fd00256e7b40691d27ddfd466?d=identicon&version=1",
+      "content": "Hello test",
+      "display_recipient": "general",
+      "id": 16,
+      "reactions": [
+        {
+          "emoji_name": "blush",
+          "emoji_code": "1f60a",
+          "reaction_type": "unicode_emoji",
+          "user": {
+            "email": "gleb.gafeev@mail.ru",
+            "id": 708825,
+            "full_name": "Gleb Gafeev"
+          },
+          "user_id": 708825
+        },
+        {
+          "emoji_name": "silence",
+          "emoji_code": "1f910",
+          "reaction_type": "unicode_emoji",
+          "user": {
+            "email": "user709699@tinkoff-android-spring-2024.zulipchat.com",
+            "id": 709699,
+            "full_name": "Dmitry Kucherenko"
+          },
+          "user_id": 709699
+        }
+      ],
+      "sender_email": "hamlet@zulip.com",
+      "sender_full_name": "King Hamlet",
+      "sender_id": 4,
+      "sender_realm_str": "zulip",
+      "subject": "swimming turtles",
+      "timestamp": 1527921326
+    }
+  ],
+  "msg": "",
+  "result": "success"
+}
